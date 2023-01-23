@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CaptainPandaMonkey5
 - 👀 I’m interested in Programming, Cryptocurrencies, Anime, Manga, Drawing, and Reading
-- 🌱 I’m currently learning Computer Science; C, C++, Python and MySQL
+- 🌱 I’m currently learning Computer Science; C++, Python, MySQL and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can send me a message on my twitter account @CptPandaMonkey
 
