@@ -17,11 +17,11 @@ You can click the Preview link to take a look at your changes.
 I'm currently in the midst of my third year studying **Computer Science**. I have a relentless drive to expand my knowledge
 and skills in the realm of technology to create, develop and dive into new technologies.
 
-[] I'm currently learning **HTML** and **CSS** to expand my knowledge in web development and web design
+- [] I'm currently learning **HTML** and **CSS** to expand my knowledge in web development and web design
 
 <h2>TECHNOLOGIES</h2>
-[x] C/C++
-[x] MySQL
-[x] Java
-[] HTML
-[] CSS
+- [x] C/C++
+- [x] MySQL
+- [x] Java
+- [] HTML
+- [] CSS
