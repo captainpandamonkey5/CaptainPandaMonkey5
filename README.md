@@ -18,9 +18,18 @@ and skills in the realm of technology to create, develop and dive into new techn
 
 - I'm currently learning **HTML** and **CSS** to expand my knowledge in web development and web design
 
+- My Interest that are closely related to programming are Cryptocurrencies and NFTs
+
+- You can send me a message on my twitter acount [@CptPandaMonkey](https://twitter.com/CptPandaMonkey)
+
 <h2>TECHNOLOGIES</h2>
-*C/C++
-*MySQL
-*Java
-*HTML
-*CSS
+
+- C/C++
+
+- MySQL
+
+-Java
+
+-HTML
+
+-CSS
