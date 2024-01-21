@@ -13,14 +13,16 @@ and skills in the realm of technology to create, develop and dive into new techn
 
 <h2>TECHNOLOGIES</h2>
 
-- C/C++
+- C/C++ ⭐⭐⭐
 
-- MySQL
+- MySQL ⭐⭐⭐⭐⭐
 
-- Java
+- Java ⭐⭐
 
-- HTML
+- HTML ⭐⭐⭐
 
-- CSS
+- CSS ⭐⭐⭐
+
+- C#
 
 <!--add more info and icons soon-->
