@@ -25,4 +25,6 @@ and skills in the realm of technology to create, develop and dive into new techn
 
 - C#
 
+- JavaScript
+
 <!--add more info and icons soon-->
