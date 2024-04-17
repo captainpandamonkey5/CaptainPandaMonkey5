@@ -25,6 +25,8 @@ and skills in the realm of technology to create, develop and dive into new techn
 
 - C#
 
-- JavaScript
+- JavaScript ⭐⭐
+
+- PHP ⭐⭐
 
 <!--add more info and icons soon-->
