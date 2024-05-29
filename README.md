@@ -21,9 +21,9 @@ and skills in the realm of technology to create, develop and dive into new techn
 
 - HTML ⭐⭐⭐
 
-- CSS ⭐⭐⭐
+- CSS ⭐⭐⭐⭐
 
-- C#
+- Tailwind ⭐
 
 - JavaScript ⭐⭐
 
