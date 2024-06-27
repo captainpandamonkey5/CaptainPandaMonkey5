@@ -17,9 +17,7 @@ and skills in the realm of technology to create, develop and dive into new techn
 
 - MySQL ⭐⭐⭐⭐⭐
 
-- Java ⭐
-
-- HTML ⭐⭐⭐
+- HTML ⭐⭐⭐⭐
 
 - CSS ⭐⭐⭐⭐
 
@@ -27,6 +25,8 @@ and skills in the realm of technology to create, develop and dive into new techn
 
 - JavaScript ⭐⭐
 
-- PHP ⭐⭐
+- PHP ⭐⭐⭐
+
+- Laravel ⭐⭐
 
 <!--add more info and icons soon-->
