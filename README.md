@@ -5,7 +5,7 @@
 I'm currently in the midst of my third year studying **Computer Science** 💻. I have a relentless drive to expand my knowledge
 and skills in the realm of technology to create, develop and dive into new technologies.
 
-- 📚 I'm currently learning **Laravel** and **Tailwind** to expand my knowledge in web development and web design
+- 📚 I'm currently learning **Laravel** and **Tailwind**
 
 - 🤓 My Interest that are closely related to programming are Cryptocurrencies and NFTs
 
