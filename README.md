@@ -19,7 +19,7 @@ and skills in the realm of technology to create, develop and dive into new techn
 
 - C/C++ , PHP ⭐⭐⭐
 
-- Tailwind ⭐
+- Tailwind ⭐⭐⭐
 
 - JavaScript ⭐⭐
 
