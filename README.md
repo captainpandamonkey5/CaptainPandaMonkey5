@@ -5,7 +5,7 @@
 I'm currently in the midst of my third year studying **Computer Science** 💻. I have a relentless drive to expand my knowledge
 and skills in the realm of technology to create, develop and dive into new technologies.
 
-- 📚 I'm currently learning **Laravel** and **Tailwind**
+- 📚 I'm currently learning **Tailwind** and **REST API**
 
 - 🏢 I'm currently doing a summer internship at **Highly Succeed Inc.** in Web Development, specifically as a **Backend Developer**.
 
@@ -17,14 +17,10 @@ and skills in the realm of technology to create, develop and dive into new techn
 
 - MySQL ⭐⭐⭐⭐⭐
 
-- HTML , CSS ⭐⭐⭐⭐
+- HTML , CSS , PHP ⭐⭐⭐⭐
 
-- C/C++ , PHP ⭐⭐⭐
-
-- Tailwind ⭐⭐⭐
+- C/C++ , Tailwind , Laravel ⭐⭐⭐
 
 - JavaScript ⭐⭐
-
-- Laravel ⭐⭐
 
 <!--add more info and icons soon-->
