@@ -15,12 +15,12 @@ and skills in the realm of technology to create, develop and dive into new techn
 
 <h2>TECHNOLOGIES</h2>
 
-- MySQL ⭐⭐⭐⭐⭐
+- MySQL, Git ⭐⭐⭐⭐⭐
 
 - HTML , CSS , PHP ⭐⭐⭐⭐
 
 - C/C++ , Tailwind , Laravel ⭐⭐⭐
 
-- JavaScript ⭐⭐
+- JavaScript , Nodejs ⭐⭐
 
 <!--add more info and icons soon-->
