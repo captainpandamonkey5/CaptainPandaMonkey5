@@ -21,6 +21,8 @@ and skills in the realm of technology to create, develop and dive into new techn
 
 - C/C++ , Tailwind , Laravel ⭐⭐⭐
 
-- JavaScript , Nodejs ⭐⭐
+- JavaScript , Nodejs, Bootstrap ⭐⭐
+
+- Alpine.js ⭐
 
 <!--add more info and icons soon-->
