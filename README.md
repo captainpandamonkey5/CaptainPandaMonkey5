@@ -15,6 +15,8 @@ and skills in the realm of technology to create, develop and dive into new techn
 
 <h2>TECHNOLOGIES</h2>
 
+<img width="55%" align="right" alt="Github" src="/assets/Commission-3-flip.png"/>
+
 - MySQL, Git ⭐⭐⭐⭐⭐
 
 - HTML , CSS , PHP ⭐⭐⭐⭐
