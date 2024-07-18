@@ -1,30 +1,39 @@
 # Hi, I'm Sam
 
-<h2>ABOUT ME</h2>
+## About Me
 
-I'm currently in the midst of my third year studying **Computer Science** 💻. I have a relentless drive to expand my knowledge
-and skills in the realm of technology to create, develop and dive into new technologies.
+I'm currently in my third year of studying Computer Science 💻. I have a relentless drive to expand my knowledge and skills in technology, constantly seeking to create, develop, and dive into new innovations.
 
-- 📚 I'm currently learning **Tailwind** and **REST API**
+📚 Currently Learning: Tailwind CSS and REST API
 
-- 🏢 I'm currently doing a summer internship at **Highly Succeed Inc.** in Web Development, specifically as a **Backend Developer**.
+🏢 Internship: Summer intern at Highly Succeed Inc. as a Backend Developer
 
-- 🤓 My Interest that are closely related to programming are Cryptocurrencies and NFTs
+🤓 Interests: Cryptocurrencies and NFTs
 
-- 💭 You can send me a message on my twitter acount [@CptPandaMonkey](https://twitter.com/CptPandaMonkey)
+💬 Contact: Feel free to send me a message on Twitter/X [@CptPandaMonkey](https://x.com/CptPandaMonkey)
 
-<h2>TECHNOLOGIES</h2>
+## Technologies
 
 <img width="35%" align="right" alt="Github" src="/assets/Commission-3-flip.png"/>
 
-- MySQL, Git ⭐⭐⭐⭐⭐
+### Proficient
++ Git
++ MySQL
 
-- HTML , CSS , PHP ⭐⭐⭐⭐
+### Intermediate
++ HTML
++ CSS
++ PHP
++ C/C++
 
-- C/C++ , Tailwind , Laravel ⭐⭐⭐
+### Developing Skills
++ Tailwind CSS
++ Laravel
 
-- JavaScript , Nodejs, Bootstrap ⭐⭐
-
-- Alpine.js ⭐
+### Beginner
++ JavaScript
++ Node.js
++ Bootstrap
++ Alpine.js
 
 <!--add more info and icons soon-->
