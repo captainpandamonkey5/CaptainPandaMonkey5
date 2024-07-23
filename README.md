@@ -19,9 +19,9 @@ I'm currently in my third year of studying Computer Science 💻. I have a relen
 ### Proficient
 + Git
 + MySQL
++ HTML
 
 ### Intermediate
-+ HTML
 + CSS
 + PHP
 + C/C++
@@ -29,9 +29,9 @@ I'm currently in my third year of studying Computer Science 💻. I have a relen
 ### Developing Skills
 + Tailwind CSS
 + Laravel
++ JavaScript
 
 ### Beginner
-+ JavaScript
 + Node.js
 + Bootstrap
 + Alpine.js
