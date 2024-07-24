@@ -17,23 +17,15 @@ I'm currently in my third year of studying Computer Science 💻. I have a relen
 <img width="35%" align="right" alt="Github" src="/assets/Commission-3-flip.png"/>
 
 ### Proficient
-+ Git
-+ MySQL
-+ HTML
++ Git, MySQL, HTML
 
 ### Intermediate
-+ CSS
-+ PHP
-+ C/C++
++ CSS, PHP, C/C++
 
 ### Developing Skills
-+ Tailwind CSS
-+ Laravel
-+ JavaScript
++ Tailwind CSS, Laravel, JavaScript
 
 ### Beginner
-+ Node.js
-+ Bootstrap
-+ Alpine.js
++ Node.js, Bootstrap, Alpine.js
 
 <!--add more info and icons soon-->
