@@ -20,7 +20,7 @@ I'm currently in my third year of studying Computer Science 💻. I have a relen
 + Git, MySQL, HTML
 
 ### Intermediate
-+ CSS, PHP, C/C++
++ CSS, PHP
 
 ### Developing Skills
 + Tailwind CSS, Laravel, JavaScript
