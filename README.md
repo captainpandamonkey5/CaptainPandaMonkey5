@@ -6,7 +6,7 @@ I'm currently in my third year of studying Computer Science 💻. I have a relen
 
 📚 Currently Learning: Tailwind CSS and REST API
 
-🏢 Internship: Summer intern at Highly Succeed Inc. as a Backend Developer
+🏢 Internship: Summer intern at Highly Succeed Inc. as a Backend Developer June 2024 - July 2024
 
 🤓 Interests: Cryptocurrencies and NFTs
 
@@ -20,7 +20,7 @@ I'm currently in my third year of studying Computer Science 💻. I have a relen
 + Git, MySQL, HTML
 
 ### Intermediate
-+ CSS, PHP
++ CSS, PHP, DaisyUI
 
 ### Developing Skills
 + Tailwind CSS, Laravel, JavaScript
