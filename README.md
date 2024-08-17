@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm currently in my third year of studying Computer Science 💻. I have a relentless drive to expand my knowledge and skills in technology, constantly seeking to create, develop, and dive into new innovations.
+I'm currently in my fourth year of studying Computer Science 💻. I have a relentless drive to expand my knowledge and skills in technology, constantly seeking to create, develop, and dive into new innovations.
 
 📚 Currently Learning: Tailwind CSS and REST API
 
