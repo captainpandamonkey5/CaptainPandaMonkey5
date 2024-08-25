@@ -17,15 +17,15 @@ I'm currently in my fourth year of studying Computer Science 💻. I have a rele
 <img width="35%" align="right" alt="Github" src="/assets/Commission-3-flip.png"/>
 
 ### Proficient
-+ Git, MySQL, HTML
++ Git, MySQL, HTML, CSS
 
 ### Intermediate
-+ CSS, PHP, DaisyUI
++ PHP, DaisyUI, Tailwind CSS, JavaScript
 
 ### Developing Skills
-+ Tailwind CSS, Laravel, JavaScript
++ Laravel, React, Alpine.js
 
 ### Beginner
-+ Node.js, Bootstrap, Alpine.js
++ Node.js, Bootstrap
 
 <!--add more info and icons soon-->
