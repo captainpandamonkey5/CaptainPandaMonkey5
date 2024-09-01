@@ -4,7 +4,7 @@
 
 I'm currently in my fourth year of studying Computer Science 💻. I have a relentless drive to expand my knowledge and skills in technology, constantly seeking to create, develop, and dive into new innovations.
 
-📚 Currently Learning: Tailwind CSS and REST API
+📚 Currently Learning: REST API, Laravel, and React
 
 🏢 Internship: Summer intern at Highly Succeed Inc. as a Backend Developer June 2024 - July 2024
 
