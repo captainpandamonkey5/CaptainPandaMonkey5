@@ -26,6 +26,6 @@ I'm currently in my fourth year of studying Computer Science 💻. I have a rele
 + Laravel, React, Alpine.js
 
 ### Beginner
-+ Node.js, Bootstrap
++ Node.js, Bootstrap, Python
 
 <!--add more info and icons soon-->
