@@ -4,7 +4,7 @@
 
 I'm currently in my fourth year of studying Computer Science 💻. I have a relentless drive to expand my knowledge and skills in technology, constantly seeking to create, develop, and dive into new innovations.
 
-📚 Currently Learning: REST API, Laravel, and React
+📚 Currently Learning: React, QT Designer and Python
 
 🏢 Internship: Summer intern at Highly Succeed Inc. as a Backend Developer June 2024 - July 2024
 
@@ -23,9 +23,9 @@ I'm currently in my fourth year of studying Computer Science 💻. I have a rele
 + PHP, DaisyUI, Tailwind CSS, JavaScript
 
 ### Developing Skills
-+ Laravel, React, Alpine.js
++ Laravel, React, Alpine.js, Python, QT Designer
 
 ### Beginner
-+ Node.js, Bootstrap, Python
++ Node.js, Bootstrap
 
 <!--add more info and icons soon-->
