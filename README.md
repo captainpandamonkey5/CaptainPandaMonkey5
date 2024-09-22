@@ -1,3 +1,5 @@
+![👋 Hi, I'm Sam](https://github.com/CaptainPandaMonkey5/CaptainPandaMonkey5/blob/30fd0e6a4436b663beac29ab496680e311e459b0/assets/github-header-image.png)
+
 <div id="toc">
   <ul align="left" style="list-style: none">
     <summary>
