@@ -15,7 +15,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **ShelterAlloc_Thesis**
+- 💼 I'm currently working on: **ShelterAlloc_Thesis and Software**
 - 🌱 I'm currently learning: **React, QT Designer and Python**
 
  **<h3 align="left">Skills</h3>**
