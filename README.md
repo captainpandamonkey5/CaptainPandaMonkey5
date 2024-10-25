@@ -9,7 +9,7 @@
 </div>
 
 ### 💫 About Me:
-💼 I'm currently working on: **ShelterAlloc_Thesis** and **Software**<br>🌱 I'm currently learning: React, QT Designer and Python<br>🏢 Internship: Highly Succeed Inc. (June-July 2024)
+💼 I'm currently working on: **ShelterAlloc_Thesis** and **Software**<br>🌱 I'm currently learning: PySide6, QT Designer and Python<br>🏢 Internship: Highly Succeed Inc. (June-July 2024)
 
 
 ### 🌐 Socials:
