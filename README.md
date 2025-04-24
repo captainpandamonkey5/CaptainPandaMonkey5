@@ -9,7 +9,7 @@
 </div>
 
 ### 💫 About Me:
-💼 I'm currently working on: **ShelterAlloc_Thesis**<br>🌱 I'm currently learning: Laravel, WordPress, more JS and PHP<br>🏢 Internship: Highly Succeed Inc. (June-July 2024)
+💼 I'm currently working on: **-**<br>🌱 I'm currently learning: Laravel, WordPress, more JS and PHP<br>🏢 Internship: Highly Succeed Inc. (June-July 2024)
 
 
 ### 🌐 Socials:
