@@ -9,7 +9,7 @@
 </div>
 
 ### 💫 About Me:
-💼 I'm currently working on: **Machine Learning - Baybayin**<br>🌱 I'm currently learning: Machine Learning with Python, WordPress, more JS and PHP<br>🏢 Internship: Highly Succeed Inc. (June-July 2024)
+💼 I'm currently working on: **-**<br>🌱 I'm currently learning: WordPress, more JavaScript, and PHP<br>🏢 Internship: Highly Succeed Inc. (June-July 2024)
 
 
 ### 🌐 Socials:
