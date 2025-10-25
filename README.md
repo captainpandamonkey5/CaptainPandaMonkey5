@@ -9,7 +9,7 @@
 </div>
 
 ### 💫 About Me:
-💼 I'm currently working on: **-**<br>🌱 I'm currently learning: Zoho, more JavaScript, and PHP<br>🏢 Internship: Highly Succeed Inc. (June-July 2024)<br>🧑‍💻 Work: Virtual Graffiti AU
+💼 I'm currently working on: **-**<br>🌱 I'm currently learning: PHP, Python, JavaScript<br>🏢 Internship: Highly Succeed Inc. (June-July 2024)<br>🧑‍💻 Work: Virtual Graffiti AU
 
 
 ### 🌐 Socials:
