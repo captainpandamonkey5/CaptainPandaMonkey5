@@ -9,7 +9,7 @@
 </div>
 
 ### 💫 About Me:
-💼 Personal Project: **Sari-Sari Store Product DB and Website**<br>🌱 Learning: PHP, Bootstrap 5, Web Design<br>🏢 Internship: Highly Succeed Inc. (June-July 2024)<br>🧑‍💻 Work: Virtual Graffiti AU
+💼 Personal Project: **Sari-Sari Store Product DB and Website**<br>🌱 Learning: PHP, Bootstrap 5, Web Design<br>🏢 Internship: Highly Succeed Inc. (June-July 2024)<br>🧑‍💻 Work: Virtual Graffiti AU <br> ⭐ Goal for 2026: Improve, Be Active, Stay Healthy, Make Money
 
 
 ### 🌐 Socials:
