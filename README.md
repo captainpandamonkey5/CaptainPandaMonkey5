@@ -9,7 +9,7 @@
 </div>
 
 ### 💫 About Me:
-💼 Personal Project: **Sari-Sari Store Product DB and Website**<br>🌱 I'm currently learning: PHP, Python, JavaScript<br>🏢 Internship: Highly Succeed Inc. (June-July 2024)<br>🧑‍💻 Work: Virtual Graffiti AU
+💼 Personal Project: **Sari-Sari Store Product DB and Website**<br>🌱 Learning: PHP, Bootstrap 5, Web Design<br>🏢 Internship: Highly Succeed Inc. (June-July 2024)<br>🧑‍💻 Work: Virtual Graffiti AU
 
 
 ### 🌐 Socials:
