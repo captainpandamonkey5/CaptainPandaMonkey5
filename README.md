@@ -9,7 +9,7 @@
 </div>
 
 ### 💫 About Me:
-💼 Personal Project: **LovaLog** currently visible at https://lovalog.onrender.com/ <br>🌱 Learning: PHP, Bootstrap 5, Web Design, DSA<br>🏢 Internship: Highly Succeed Inc. (June-July 2024)<br>🧑‍💻 Work: Virtual Graffiti AU <br> ⭐ Goal for 2026: Improve, Be Active, Stay Healthy, Make Money
+💼 Personal Project: **LovaLog** currently visible at https://lovalog.free.nf/ <br>🌱 Learning: PHP, Bootstrap 5, Web Design, DSA<br>🏢 Internship: Highly Succeed Inc. (June-July 2024)<br>🧑‍💻 Work: Virtual Graffiti AU <br> ⭐ Goal for 2026: Improve, Be Active, Stay Healthy, Make Money
 
 
 ### 🌐 Socials:
